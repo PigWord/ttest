@@ -1,0 +1,4 @@
+automobile: dsjhakd
+year: 12
+a_price: 312.00
+d_price: 284.86
